@@ -26,12 +26,6 @@ I'm interested in **software development, AI/ML, and backend development**. I be
 ![MongoDB](https://skillicons.dev/icons?i=mongodb)
 ![Git](https://skillicons.dev/icons?i=git)
 
-**Data Science and Machine Learning**
-
-![NumPy](https://skillicons.dev/icons?i=numpy)
-![Pandas](https://skillicons.dev/icons?i=pandas)
-![Scikit-learn](https://skillicons.dev/icons?i=sklearn)
-
 ### 🌱 Currently
 
 - Strengthening my programming and problem-solving skills.
