@@ -32,7 +32,3 @@ I'm interested in **software development, AI/ML, and backend development**. I be
 - Exploring machine learning and AI applications.
 - Learning more about building reliable software and backend systems.
 - Looking forward to opportunities where I can learn, contribute, and grow as a developer.
-
----
-
-*Curious by nature, learning every day, and always ready for the next challenge.* ✨
